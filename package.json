@@ -67,7 +67,7 @@
     "standard": "^14.1.0"
   },
   "dependencies": {
-    "bfx-api-node-models": "^1.2.9",
+    "bfx-api-node-models": "git+https://github.com/gabrielcolson/bfx-api-node-models.git",
     "bfx-api-node-util": "git+https://github.com/gabrielcolson/bfx-api-node-util.git",
     "bluebird": "^3.5.5",
     "copy": "^0.3.2",
